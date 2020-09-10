@@ -2267,5 +2267,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup
       objectReference: {fileID: 0}
+    - target: {fileID: 1818215829366080830, guid: 6eeca6b9b6b6d2944a1f47b1f9dbb39a, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6eeca6b9b6b6d2944a1f47b1f9dbb39a, type: 3}
